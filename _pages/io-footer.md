@@ -32,4 +32,4 @@ post_date: 2020-07-11 20:04:19
 [/vc_column_text][/vc_column][vc_column width="9/12" el_class="insider-io"][dt_gallery_masonry mode="grid" bwb_columns="desktop:23|h_tablet:23|v_tablet:23|phone:23" gap_between_posts="1px" image_border_radius="0px" image_hover_bg_color="disabled" on_click="none" show_zoom="n" include="1768,1769,1770,1771,1772,1773,1774,1776,1775,1777,1778,1779,1780,1781,1782,1783,1784,1785,1786,1787,1788,1789,1790"][/vc_column][/vc_row][vc_row bg_type="bg_color" bg_override="ex-full" bg_color_value="#233061"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="color: #66c2ef;">Copyright © Autorola Türkiye</span></p>
 <p style="text-align: center;"><span style="color: #ffffff;">Tüm Hakları Saklıdır. Belirtilen ticari markalar ve markalar, ilgili sahiplerine aittir.</span></p>
-[/vc_column_text][vc_column_text]xx[/vc_column_text][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][/vc_row]
