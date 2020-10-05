@@ -22,7 +22,7 @@ Giz 2000 Plaza Eski Büyükdere Caddesi No:7 Kat:7
 <p style="text-align: center;">34398 Maslak/Sarıyer/İstanbul</p>
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_icon icon_fontawesome="fas fa-phone-square-alt" color="custom" size="lg" align="center" css=".vc_custom_1596887933722{margin-bottom: 0px !important;}" custom_color="#233061"][vc_column_text el_class="aleriz-iletisim"]
 <p style="text-align: center;"><span style="color: #233061;"><strong>Telefon</strong></span></p>
-<p style="text-align: center;">+90 (212) 290 35 30</p>
+<p style="text-align: center;">444 56 64</p>
 [/vc_column_text][/vc_column][vc_column width="1/3"][vc_icon icon_fontawesome="fas fa-clock" color="custom" size="lg" align="center" css=".vc_custom_1596887923228{margin-bottom: 0px !important;}" custom_color="#233061"][vc_column_text el_class="aleriz-iletisim"]
 <p style="text-align: center;"><span style="color: #233061;"><strong>Çalışma Saatlerimiz</strong></span></p>
 <p style="text-align: center;">Pzt-Cum / 09:00 - 18:00</p>
