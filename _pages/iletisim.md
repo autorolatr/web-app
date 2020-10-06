@@ -17,21 +17,25 @@ Adres Bilgisi
 <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Eclipse Avrupa Konutları, A Blok, Konut 2. otopark girişi, Akasya sk. No:5\n34485, Maslak / Sarıyer / İSTANBUL&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Eclipse Avrupa Konutları, A Blok, -6. Otopark, Akasya sk. </span><a href="No:5">No:5</a> <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Eclipse Avrupa Konutları, A Blok, Konut 2. otopark girişi, Akasya sk. No:5\n34485, Maslak / Sarıyer / İSTANBUL&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">34485, Maslak / Sarıyer / İSTANBUL
 (Giriş -3 konut otoparkından yapılmaktadır) </span>
 
-Harita Bilgisi:
+İletişim Hattı
 
-<a href="https://goo.gl/maps/Gt3DvR2D2dwHGmee7" target="_blank" rel="noopener noreferrer">https://goo.gl/maps/Gt3DvR2D2dwHGmee7</a>
+0 (538) 975 4333
 
-[/vc_column_text][vc_column_text]<strong>Ataşehir</strong>
+Harita Bilgisi
+
+<a href="https://goo.gl/maps/Gt3DvR2D2dwHGmee7" target="_blank" rel="noopener noreferrer">https://goo.gl/maps/Gt3DvR2D2dwHGmee7</a>[/vc_column_text][vc_column_text]<strong>Ataşehir</strong>
 
 Adres Bilgisi
 
 Avrupa Office , Ataşehir Ofis Binaları, Atatürk mh. Ataşehir bulvarı No:1 -6. Bodrum kat Ataşehir / İSTANBUL
 
+İletişim Hattı
+
+0 (538) 975 4317
+
 Harita Bilgisi
 
 <a href="https://goo.gl/maps/4dvLpJ3DT4j1Nbsy8" target="_blank" rel="noopener noreferrer">https://goo.gl/maps/4dvLpJ3DT4j1Nbsy8</a>
-
-&nbsp;
 
 [/vc_column_text][vc_empty_space][/vc_column][vc_column width="1/2"][vc_column_text el_class="aleriz-text"]
 <h3>İletişim Formu</h3>
