@@ -14,7 +14,7 @@ post_date: 2020-04-18 13:43:58
 <h2>1) Şirket Bilgiler</h2>
 <p style="padding-left: 40px;">a) Autocom (AUTOROLA MOTORLU ARAÇLAR AÇIK ARTIRMA TİC.A.Ş.) Giz 2000 Plaza Eski Büyükdere Caddesi No:7 Kat:7 34398 Maslak/Sarıyer/İstanbul/Türkiye adresinde mukim, İstanbul Ticaret Odası’na 851610-0 sicil numarası ile, MASLAK Vergi Dairesine 1050584103 vergi sicil numarası ile kayıtlı şirkettir (“<strong>Autocom</strong>” veya “<strong>Şirket</strong>”)</p>
 <p style="padding-left: 40px;">b) Hizmetlerimiz, <a href="https://www.autocom.com.tr">https://www.Autocom.com.tr</a> internet sitemiz (“İnternet Sitesi”) üzerinden sağlanmaktadır.</p>
-<p style="padding-left: 40px;">c) İletişim numaramız 0212 2903530’dur. Bizimle <a href="mailto:info@autocom.com.tr">info@Autocom.com.tr</a> e-posta adresinden de iletişime geçebilirsiniz.</p>
+<p style="padding-left: 40px;">c) İletişim numaramız <a style="text-decoration: none;" href="tel:+904445664" rel="nofollow">444 56 64</a> ’dur. Bizimle <a href="mailto:info@autocom.com.tr">info@Autocom.com.tr</a> e-posta adresinden de iletişime geçebilirsiniz.</p>
 
 <h2>2) İnternet Sitesi Kullanım Koşulları</h2>
 <p style="padding-left: 40px;">a) İşbu İnternet Sitesi kullanım hüküm ve koşulları (“<strong>Kullanım Koşulları</strong>”), işbu belgenin atıfta bulunduğu diğer uygulanabilir hükümler ve koşullar ile birlikte okunmalıdır. İşbu Kullanım Koşulları, araçlarını bize satacak gerçek veya tüzel kişilerin (“<strong>Kullanıcı</strong>” veya “<strong>Siz</strong>”) İnternet Sitesini kullanım şart ve koşullarını düzenlemeyi amaçlar. İşbu Kullanım koşulları kullanıcı olarak İnternet Sitesini kullanmak için kabul ettiğiniz kullanım koşullarını düzenler.</p>
