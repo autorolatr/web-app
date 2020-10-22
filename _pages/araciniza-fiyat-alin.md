@@ -30,7 +30,7 @@ post_date: 2020-04-18 13:40:13
  	<li>Kilometre bilgisi düşürülmüş araçları,</li>
  	<li>Taksi çıkması araçları,</li>
  	<li>Hava yastıkları açılmış araçları,</li>
- 	<li>Tavanı değişmiş araçları,</li>
+ 	<li>Tavanı boyalı veya değişmiş araçları,</li>
  	<li>Ağır hasar kayıtlı veya pert araçları,</li>
  	<li>Tramer kaydında sel/su hasarı bulunan araçları,</li>
  	<li>Motor değişimi yapılmış araçları,</li>
